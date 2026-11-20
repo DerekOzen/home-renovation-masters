@@ -1,7 +1,7 @@
 [
   {
     "id": "pg-1",
-    "path": "/home-renovation-masters",
+    "path": "/",
     "type": "page",
     "title": "Home Renovation Masters",
     "seoTitle": "Home Renovations in Sydney | Home Renovation Masters",
@@ -9,10 +9,11 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
-    "updatedAt": "2026-11-20T15:55:58.759Z",
+    "status": "published",
+    "updatedAt": "2026-11-20T15:56:07.935Z",
     "updatedBy": "derek",
     "createdAt": "2026-11-20T15:55:58.759Z",
-    "createdBy": "derek"
+    "createdBy": "derek",
+    "isHome": true
   }
 ]
