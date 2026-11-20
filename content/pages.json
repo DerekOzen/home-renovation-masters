@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "pg-1",
+    "path": "/home-renovation-masters",
+    "type": "page",
+    "title": "Home Renovation Masters",
+    "seoTitle": "Home Renovations in Sydney | Home Renovation Masters",
+    "seoDescription": "Home renovations in Sydney by one coordinated trade team: kitchens, bathrooms, painting, plastering, landscaping and more. 50+ years combined experience.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "updatedAt": "2026-11-20T15:55:58.759Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-11-20T15:55:58.759Z",
+    "createdBy": "derek"
+  }
+]
